@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "M12oty0hfk21HtnLzdGublcfKZ30pJ7pYTkzl3ZPaqikUwv7crBwSyHvTREwhG9pzWISsPMNubHlFPJyTKDs3w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\selin\\Desktop\\std\\BIE\\Web Programming\\GroceryManager\\GM.Client\\GM.Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\selin\\.nuget\\packages\\microsoft.data.edm\\5.8.4\\microsoft.data.edm.5.8.4.nupkg.sha512",
+    "C:\\Users\\selin\\.nuget\\packages\\microsoft.data.odata\\5.8.4\\microsoft.data.odata.5.8.4.nupkg.sha512",
+    "C:\\Users\\selin\\.nuget\\packages\\microsoft.odata.core\\7.9.0\\microsoft.odata.core.7.9.0.nupkg.sha512",
+    "C:\\Users\\selin\\.nuget\\packages\\microsoft.odata.edm\\7.9.0\\microsoft.odata.edm.7.9.0.nupkg.sha512",
+    "C:\\Users\\selin\\.nuget\\packages\\microsoft.spatial\\7.9.0\\microsoft.spatial.7.9.0.nupkg.sha512",
+    "C:\\Users\\selin\\.nuget\\packages\\simple.odata.client\\5.25.0\\simple.odata.client.5.25.0.nupkg.sha512",
+    "C:\\Users\\selin\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512",
+    "C:\\Users\\selin\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\selin\\.nuget\\packages\\system.spatial\\5.8.4\\system.spatial.5.8.4.nupkg.sha512",
+    "C:\\Users\\selin\\.nuget\\packages\\system.text.encodings.web\\5.0.1\\system.text.encodings.web.5.0.1.nupkg.sha512",
+    "C:\\Users\\selin\\.nuget\\packages\\system.text.json\\5.0.2\\system.text.json.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

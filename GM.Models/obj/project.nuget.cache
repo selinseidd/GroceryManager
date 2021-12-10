@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cpslC8K+dkaa8YHqHypkPVIMOh6qfOz8cl1X8ehe1xPvzhCUnT4tKq/OlsG3+vk+Oz2iBJITCXws47Wv7VITJA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\selin\\Desktop\\std\\BIE\\Web Programming\\GroceryManager\\GM.Models\\GM.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\selin\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
